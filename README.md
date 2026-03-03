@@ -15,6 +15,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/3astbeast/RedTail-LVN-Hunter/refs/heads/main/Screenshot%202026-03-03%20124221.png" width="800" alt="RedTail Market Structure Screenshot"/>
+</p>
+
 ---
 
 ## Overview
